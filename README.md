@@ -12,6 +12,7 @@ The repository supports reproducibility of all experiments reported in the main 
 
 ## Repository Structure
 
+```
 NPJ_Clean_AIR_LLM_Bias/
 ├── NPJ_Clean_Air_Code/
 │   ├── Analysis/
@@ -19,6 +20,7 @@ NPJ_Clean_AIR_LLM_Bias/
 │   ├── ML_Baseline/
 │   └── Zero_Shot/
 └── NPJ_Clean_Air_Dataset/
+```
 
 ---
 

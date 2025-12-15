@@ -47,7 +47,7 @@ Zero-shot bias analysis notebooks:
 
 Fine-tuned model analysis:
 - FineTune_Analysis.ipynb  
-  Contains all evaluation and comparison results for fine-tuned LLMs, including comparisons with zero-shot LLMs and supervised baselines.
+  Contains all bias-focused analyses for fine-tuned LLMs, including error comparisons against zero-shot LLMs and supervised baselines.
 
 ---
 

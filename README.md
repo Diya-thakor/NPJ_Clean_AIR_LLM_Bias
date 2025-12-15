@@ -132,17 +132,3 @@ Additional prompt variants are evaluated for robustness and documented in the an
 All experiments are conducted using the Hugging Face ecosystem. Deterministic decoding (temperature = 0) is used unless stated otherwise. Experiments were run on NVIDIA A100 (80GB) GPUs. API tokens and credentials are not included and must be provided via environment variables.
 
 ---
-
-## Citation
-
-If you use this repository, please cite:
-
-Thakor, D., Mondal, R., and Batra, N.  
-Large Language Models Exhibit Systematic Biases Against Underserved Regions in Air Pollution Predictions.  
-npj Clean Air, 2025.
-
----
-
-## Contact
-
-For questions or clarifications, please refer to the corresponding author information in the paper.

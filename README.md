@@ -1,12 +1,19 @@
 # Large Language Models Exhibit Systematic Biases Against Underserved Regions in Air Pollution Predictions
 
-This repository contains the code, data, and analysis notebooks accompanying the paper:
-
-Large Language Models Exhibit Systematic Biases Against Underserved Regions in Air Pollution Predictions  
-Diya Thakor, Rishabh Mondal, Nipun Batra  
+**Diya Thakor**, **Rishabh Mondal**, **Nipun Batra**  
 Indian Institute of Technology Gandhinagar
 
-The repository supports reproducibility of all experiments reported in the main paper and supplementary material, including zero-shot evaluation of large language models (LLMs), fine-tuning experiments, supervised machine-learning baselines, and bias analyses across geographic, socioeconomic, and digital-visibility dimensions.
+---
+
+This repository contains the **code, data, and analysis notebooks** accompanying the manuscript:
+
+> **Large Language Models Exhibit Systematic Biases Against Underserved Regions in Air Pollution Predictions**
+
+It supports reproducibility of all experiments reported in the main paper and supplementary material, including:
+- zero-shot evaluation of large language models (LLMs),
+- fine-tuning experiments,
+- supervised machine-learning baselines, and
+- bias analyses across **geographic**, **socioeconomic**, and **digital-visibility** dimensions.
 
 ---
 
